@@ -1,6 +1,6 @@
 
 ```
-App3udemyMeals
+MealsAppReactNative
 ├─ .gitignore
 ├─ App.js
 ├─ app.json
